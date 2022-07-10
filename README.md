@@ -18,4 +18,4 @@ Classification between cats and dogs using different approaches like CNN, Transf
 
 **Language used :** Python </br>
 **Development Tools :** [Jupyter Notebook](https://jupyter.org/) </br>
-**Platform :** Google Colab
+**Platform :** [Google Colab]()
